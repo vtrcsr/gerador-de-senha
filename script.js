@@ -3,7 +3,7 @@ let botao = document.querySelector('.btn')
 let valor = document.querySelector('#valor')
 let senha = document.querySelector('#password')
 let containerSenha = document.querySelector('#container-password')
-let charset = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@'
+let charset = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@_'
 
 
 valor.innerHTML = range.value
